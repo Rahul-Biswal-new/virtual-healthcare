@@ -1,0 +1,19 @@
+
+# Dependencies
+/node_modules
+
+# Production
+/build
+
+
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.log
+
+
+
+
+  
